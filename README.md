@@ -24,10 +24,12 @@ https://github.com/baobuiquang/AMP-ParkinsonDiseaseProgression/blob/main/main.ip
 
 1. Đăng nhập vào tài khoản Kaggle (tài khoản đã được xác minh)
 2. Tham gia cuộc thi này: https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/overview (Cuộc thi đã kết thúc nhưng vẫn sẽ tham gia và late submit được)
-3. Copy notebook này: https://www.kaggle.com/code/dangkhanhle/parkinson-s-disease-progression-prediction?scriptVersionId=130133355
+3. Copy notebook này: https://www.kaggle.com/code/dangkhanhle/parkinson-s-disease-progression-prediction?scriptVersionId=130245485
 4. Sử dụng như một notebook bình thường
 
-Lưu ý: Để nhận được score của cuộc thi, thầy/cô/các bạn cần phải late submit notebook vào cuộc thi.
+Lưu ý: Để nhận được score của cuộc thi, thầy/cô/các bạn cần phải late submit notebook vào cuộc thi
+
+Nếu Private Score = `70.797` và Public Score = `57.263` là đã chạy thành công.
 
 ### Cách 2
 
@@ -40,3 +42,8 @@ Thầy/cô/các bạn nếu muốn test cần phải:
 2. Tham gia cuộc thi này: https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction/overview (Cuộc thi đã kết thúc nhưng vẫn sẽ tham gia và late submit được)
 3. Tạo một notebook mới và upload `main.ipynb`
 4. Sử dụng như một notebook bình thường
+
+
+Lưu ý: Để nhận được score của cuộc thi, thầy/cô/các bạn cần phải late submit notebook vào cuộc thi
+
+Nếu Private Score = `70.797` và Public Score = `57.263` là đã chạy thành công.
